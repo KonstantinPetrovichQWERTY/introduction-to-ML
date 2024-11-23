@@ -1,7 +1,5 @@
 # Lab 4: Classifiers and Regularization Concepts
 
-This project explores various machine learning classifiers and the concept of regularization in classification problems.
-
 ## Objectives
 1. Understand and apply **Lasso** and **Ridge** regression.
 2. Explore the **Naïve Bayes** classifier.
